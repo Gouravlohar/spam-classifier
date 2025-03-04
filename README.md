@@ -1,6 +1,6 @@
 # ❌ Spam Classifier using Voting Classifier
 ![image](https://github.com/user-attachments/assets/b9687e9b-eb03-470f-bc73-af311849a856)
-[🛑 Live Link](Here)
+➡️ [Live Link](https://spam-classifier-vhvfoqzfhtseefapplaiappc.streamlit.app/)
 
 ## Clone the Repo 👇
 ```bash
